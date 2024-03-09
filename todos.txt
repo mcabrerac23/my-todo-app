@@ -4,4 +4,3 @@ Fix the car
 Listen to the radio
 Run on the city
 study python 
-my last todo
