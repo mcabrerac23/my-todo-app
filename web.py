@@ -17,7 +17,7 @@ with col1:
         unsafe_allow_html=True,
     )
     st.title("IMPORTACION productos Disney-STITCH")
-    content = """Productos STITCH - 2024
+    content = """Productos Disney-STITCH - Abril, 2024
     """
     st.info(content)
 
