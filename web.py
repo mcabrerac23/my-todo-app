@@ -16,7 +16,7 @@ with col1:
         f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
         unsafe_allow_html=True,
     )
-    st.title("IMPORTACION productos STITCH")
+    st.title("IMPORTACION productos Disney-STITCH")
     content = """Productos STITCH - 2024
     """
     st.info(content)
@@ -52,3 +52,4 @@ with col4:
         st.write(f'Precio: :red[{row["Precio de Venta SOLES"]}]')
         st.write(f'Stock Disponible: {int(row["Stock Disponible"])}')
         st.image("images/" + row["image"])
+
