@@ -16,3 +16,10 @@ From: {user_email}
     if button:
         send_email(message)
         st.info("Your email was sent successfully")
+
+option = st.selectbox(
+   "How would you like to be contacted?",
+   ("Email", "Home phone", "Mobile phone"),
+   index=None, placeholder="Select contact method...",)
+
+st.write('You selected:', option)

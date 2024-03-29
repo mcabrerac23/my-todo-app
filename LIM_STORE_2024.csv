@@ -1,0 +1,26 @@
+Codigo Producto,Descripcion de Producto,Cantidad (Mes),Precio Compra ,Costo Total,Costo de Envio USA-LIM,Costo Unitario,% Ganancia,Precio de Venta,Precio de Venta SOLES,Vendidos (Mes),Comprados (Mes),Stock Disponible,image
+P-001,Pinza Stitch x  2 pzas,3, $4.26 , $12.78 , $5.09 , $5.96 ,30%, $7.74 ,S/ 27.88,0,0,3,pinzas_stitch.png
+P-002,Cepillo Cabello Stitch,2, $5.86 , $11.72 , $3.39 , $7.56 ,30%, $9.82 ,S/ 35.37,0,0,2,cepillo_stitch.png
+P-003,Etiqueta de Maleta Stitch,2, $3.73 , $7.46 , $3.39 , $5.43 ,30%, $7.06 ,S/ 25.40,0,0,2,etiqueta_maleta_stitch.png
+P-004,Etiqueta de Maleta Angel,2, $3.73 , $7.46 , $3.39 , $5.43 ,30%, $7.06 ,S/ 25.40,0,0,2,etiqueta2_maleta_stitch.png
+P-005,Monedero Stitch - F,1, $7.46 , $7.46 , $1.70 , $9.16 ,30%, $11.90 ,S/ 42.85,0,0,1,monedero_stitch.png
+P-006,Monedero Stitch - T,1, $7.46 , $7.46 , $1.70 , $9.16 ,30%, $11.90 ,S/ 42.85,0,0,1,monedero_stitch.png
+P-007,Correa Porta-tarjeta Stitch,1, $5.00 , $5.00 , $1.70 , $6.70 ,30%, $8.71 ,S/ 31.34,0,0,1,correa_tarjeta_stitch.png
+P-008,Set de Botellas Viaje Stitch x 3 pzas,2, $3.20 , $6.40 , $3.39 , $4.90 ,30%, $6.37 ,S/ 22.92,0,0,2,botellas_viaje_stitch.png
+P-009,Adorno de maleta viaje Stitch,2, $3.20 , $6.40 , $3.39 , $4.90 ,30%, $6.37 ,S/ 22.92,0,0,2,adorno_colgante_stitch.png
+P-010,Adorno de maleta viaje Angel,1, $3.20 , $3.20 , $1.70 , $4.90 ,30%, $6.37 ,S/ 22.92,0,0,1,adorno_colgante_stitch.png
+P-011,Ruleador de Cabello Stitch x 6 pzas,1, $1.07 , $1.07 , $1.70 , $2.77 ,30%, $3.60 ,S/ 12.95,0,0,1,rizador_stitch.png
+P-012,Ganchos de Cabello Stitch x 4 pzas,1, $5.33 , $5.33 , $1.70 , $7.03 ,30%, $9.14 ,S/ 32.89,0,0,1,gancho_cabello_stitch.png
+P-013,Ganchos de Cabello Stitch x 2 pzas,1, $6.93 , $6.93 , $1.70 , $8.63 ,30%, $11.22 ,S/ 40.37,0,0,1,gancho_cabello2_stitch.png
+P-014,Mascarilla Gel de ojos Stitch,2, $4.26 , $8.52 , $3.39 , $5.96 ,30%, $7.74 ,S/ 27.88,0,0,2,mascarilla_ojos_stitch.png
+P-015,Pin Metalico Stitch x 4 pzas,1, $6.93 , $6.93 , $1.70 , $8.63 ,30%, $11.22 ,S/ 40.37,0,0,1,pines_stitch.png
+P-016,Set de anillos - Small - Stitch x 8 pzas,1, $6.40 , $6.40 , $1.70 , $8.10 ,30%, $10.53 ,S/ 37.89,0,0,1,anillos_stitch.png
+P-017,Carterita Peluche - Correa Stitch ,1, $12.79 , $12.79 , $1.70 , $14.49 ,30%, $18.83 ,S/ 67.80,0,0,1,mini_bolso_stitch.png
+P-018,Carterita Peluche - Correa Angel ,1, $12.79 , $12.79 , $1.70 , $14.49 ,30%, $18.83 ,S/ 67.80,0,0,1,mini_bolso2_stitch.png
+P-019,Set Bolsas tipo cubo Stitch x 5 pzas,1, $11.73 , $11.73 , $1.70 , $13.43 ,30%, $17.46 ,S/ 62.84,0,0,1,bolsas_cubo_stitch.png
+P-020,Cartuchera Maquillaje Stitch x 2 pzas,2, $12.79 , $25.58 , $3.39 , $14.49 ,30%, $18.83 ,S/ 67.80,0,0,2,cartuchera_maquillaje_stitch.png
+P-021,Pantufla Celeste  Stitch - Talla M - 7/8 USA,1, $10.00 , $10.00 , $1.70 , $11.70 ,30%, $15.21 ,S/ 54.74,0,0,1,pantuflas_stitch.png
+P-022,Pantufla Blanca  Stitch - Talla S - 5/6 USA,1, $10.00 , $10.00 , $1.70 , $11.70 ,30%, $15.21 ,S/ 54.74,0,0,1,pantuflas2_stitch.png
+P-023,Cartera Ploma tipo barco Stitch ,1, $13.86 , $13.86 , $1.70 , $15.56 ,30%, $20.22 ,S/ 72.81,0,0,1,bolso_stitch.png
+P-024,Set Bolso Maquillaje Stitch x 3 pzas,1, $17.12 , $17.12 , $1.70 , $18.82 ,30%, $24.46 ,S/ 88.06,0,0,1,bolso_maquillaje_stitch.png
+,,33,,,56,,,,,,,,
